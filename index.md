@@ -24,6 +24,7 @@ Tesla was born on the 10th of July 1856 in Smiljan, Austrian Empire (modern-day 
 - [Patents](#patents)  
 - [Legacy and honors](#legacy-and-honors)  
 - [Credits](#credits)  
+- [what](#at-a-glance)
 
 
 ```
